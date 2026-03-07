@@ -30,7 +30,7 @@ The **DermalScan** project integrates **Deep Learning**, **Computer Vision**, an
 ![High-Level Architecture](screenshots/highlevel.png)
 
 ###  Low-Level Architecture
-![Low-Level Architecture](screenshots/low level.png)
+![Low-Level Architecture](screenshots/lowlevel.png)
 ---
 
 ##  Web UI Overview
